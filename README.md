@@ -25,7 +25,7 @@ This repository contains the design and analysis of a **5-Transistor (5T) Differ
 
 ## Documentation
 For a detailed technical breakdown, including schematics, simulation setups, and full result analysis, please refer to the project report:
-* [**Differential to Single Ended Operational Amplifier.pdf**](./Differential to Single Ended Operational Amplifier.pdf)
+* [**Differential to Single Ended Op Amp.pdf**](./Differential to Single Ended Op Amp.pdf)
 
 ## Tools Used
 * **Cadence Virtuoso** – Schematic Editor.
